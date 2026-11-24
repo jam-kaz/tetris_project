@@ -26,7 +26,7 @@
 ## Установка и запуск
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com
+git clone https://github.com/jam-kaz/tetris_project.git
 cd tetris_project
 ```
 
