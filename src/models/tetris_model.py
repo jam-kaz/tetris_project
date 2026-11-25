@@ -21,8 +21,8 @@ class TetrisModel:
         """Инициализирует игровое поле заданного размера.
 
         Args:
-            width: Ширина стакана в клетках.
-            height: Высота стакана в клетках.
+            width: Ширина в клетках.
+            height: Высота в клетках.
         """
         self.width: int = width
         self.height: int = height
